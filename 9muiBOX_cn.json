@@ -1,8 +1,6 @@
 {
 ## spider
-//"spider":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA4.jar",
-"spider":"./jar/pg.jar;md5;20951b7b8b4979ec1214839a2b2e36b8",
-//"spider":"./jar/custom_spider.jar;md5;9dad9b968f26436fc4e681d0dc372d55",
+"spider":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/jar/pg.jar;md5;20951b7b8b4979ec1214839a2b2e36b8",
 
 ##主頁壁紙
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -23,17 +21,17 @@
 {"key":"drpy_9mui-胖虎","name":"😚胖虎","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-胖虎.js"},
 {"key":"drpy_9mui-樂魚影視","name":"😚樂魚影視","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-樂魚影視.js"},
 {"key":"drpy_9mui-KOK影院","name":"😚KOK影院","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-KOK影院.js"},
-{"key":"drpy_9mui-多瑙影視","name":"😚多瑙影視","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-多瑙影視.js","playerType":"2","jar":"./jar/custom_spider.jar"},
+{"key":"drpy_9mui-多瑙影視","name":"😚多瑙影視","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-多瑙影視.js"},
 {"key":"drpy_9mui-新視覺","name":"😚新視覺","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-新視覺影視.js"},
-{"key": "星星","name": "😚星星","type": 3,"api": "csp_Star","searchable": 1,"changeable": 1,"jar":"./jar/custom_spider.jar"},
+{"key":"星星","name":"😚星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
 {"key":"drpy_9mui-4k劇院","name":"😚4k劇院","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-4k劇院.js"},
 {"key":"drpy_9mui-歐帝影院","name":"😚歐帝","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-歐帝影院.js"},
-{"key":"csp_泥巴","name": "😚泥巴","type": 3,"api":"csp_NiNi","searchable": 1,"changeable": 1,"jar":"./jar/custom_spider.jar"},
+{"key":"csp_泥巴","name":"😚泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"drpy_9mui-if101","name":"🍙if101😈海外看","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-if101.js"},
 
 //😚第一個源不能播
 {"key":"drpy_9mui-網飛TV","name":"🍭網飛TV","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-網飛.TV.js"},
-{"key":"xbpq_9mui-愛看影院","name":"🍭愛看影院 ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/9mui-愛看影院.json","jar":"./jar/HeChengChaXiu.jar","playerType":"1"},
+{"key":"xbpq_9mui-愛看影院","name":"🍭愛看影院 ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-愛看影院.json","jar":"./jar/Yoursmile.jar","playerType":"1"},
 
 //🍙海外看資源
 //{"key":"drpy_9mui-楚門影院","name":"🍙楚門😈海外看","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-楚門影院.js"},
