@@ -16,8 +16,6 @@
 # Player Types:1 = ijk, 2 = exo, 3 = 阿里,  0 = system
  "sites":[
 {"key":"csp_Ninemui","name":"👒ninemui","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624"},
-
 {"key":"drpy_9mui-歐樂影院","name":"😚歐樂影院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-歐樂影院.js"},
 {"key":"drpy_9mui-蛋蛋贊","name":"😚蛋蛋贊","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-蛋蛋贊.js"},
 {"key":"drpy_9mui-樂魚影視","name":"😚樂魚影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-樂魚影視.js"},
