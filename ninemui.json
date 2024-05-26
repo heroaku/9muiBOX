@@ -16,9 +16,10 @@
 # Player Types:1 = ijk, 2 = exo, 3 = 阿里,  0 = system
  "sites":[
 {"key":"csp_Ninemui","name":"👒ninemui","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624"},
+
 {"key":"drpy_9mui-歐樂影院","name":"😚歐樂影院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-歐樂影院.js"},
 {"key":"drpy_9mui-蛋蛋贊","name":"😚蛋蛋贊","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-蛋蛋贊.js"},
-{"key":"drpy_9mui-胖虎","name":"😚胖虎","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-胖虎.js"},
 {"key":"drpy_9mui-樂魚影視","name":"😚樂魚影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-樂魚影視.js"},
 {"key":"drpy_9mui-KOK影院","name":"😚KOK影院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-KOK影院.js"},
 {"key":"drpy_9mui-多瑙影視","name":"😚多瑙影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-多瑙影視.js"},
@@ -26,7 +27,9 @@
 {"key":"星星","name":"😚星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
 {"key":"drpy_9mui-4k劇院","name":"😚4k劇院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-4k劇院.js"},
 {"key":"drpy_9mui-歐帝影院","name":"😚歐帝","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-歐帝影院.js"},
-{"key":"csp_泥巴","name":"😚泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
+{"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
+{"key":"泥巴","name":"😚泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
+{"key":"drpy_9mui-胖虎","name":"😚胖虎","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-胖虎.js"},
 {"key":"drpy_9mui-if101","name":"🍙if101😈海外看","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-if101.js"},
 
 //😚第一個源不能播
@@ -45,6 +48,7 @@
 {"key":"csp_資源網","name":"☛┃資源網┃☚","type":3,"api":"csp_Duplicate","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_海外看資源","name":"😈海外看資源","type":1,"api":"https://haiwaikan.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","港剧","韩剧","日剧","台剧","新马剧","泰剧","其他剧","网络电影","冒险片","剧情片","动作片","喜剧片","奇幻片","悬疑片","歌舞片","灾难片","爱情片","犯罪片","科幻片","动画电影","惊悚片","恐怖片","战争片","经典片","同性片","国产综艺","港台综艺","欧美综艺","日本综艺","韩国综艺","新马泰综艺","其他综艺","国产动漫","日本动漫","韩国动漫","欧美动漫","港台动漫","新马泰动漫","其他动漫"]},
 {"key":"csp_xml_飛速資源","name":"😈飛速資源","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://www.feisuplayer.com/m3u8/?url=","playerType":2,"categories":["国产剧","欧美剧","香港剧","韩国剧","日本剧","台湾剧","泰国剧","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","科幻片","爱情片","剧情片","犯罪片","悬疑片","奇幻片","动画片","恐怖片","战争片","记录片","其他片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+{"key":"csp_xml_天空資源","name":"😈天空資源","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","香港剧","韩国剧","日剧","台湾剧","泰剧","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","科幻片","爱情片","剧情片","犯罪片","悬疑片","奇幻片","动画片","动画电影","恐怖片","战争片","记录片","其他片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key":"csp_xml_魚樂資源","name":"😈魚樂資源","type":1,"api":"https://api.ylzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","美国剧","香港剧","韩国剧","日本剧","台湾剧","其他剧","短剧","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","犯罪片","奇幻片","动画片","恐怖片","战争片","纪录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","国产动漫","伦理片"]}, 
 {"key":"csp_xml_最大資源","name":"😈最大資源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","美剧","港剧","影视解说","动作片","喜剧片","爱情片","科幻片","犯罪片","剧情片","战争片","邵氏电影","恐怖片","纪录片","福利片","伦理片"]},
 {"key":"csp_xml_速播資源","name":"😈速播資源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://subojiexi.com/play/?url=","playerType":2,"categories":["大陆剧","美剧","韩剧","港澳剧","短剧","日剧","台湾剧","泰剧","动作片","爱情片","科幻片","剧情片","喜剧片","动漫电影","恐怖片","战争片","日本动漫","欧美动漫","中国动漫"]},
@@ -70,17 +74,14 @@
 {"key":"csp_xml_櫻花資源","name":"😈櫻花資源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","爱情片","科幻片","剧情片","犯罪片","动画电影","恐怖片","战争片","纪录片","国产动漫","日本动漫","欧美动漫","海外动漫","伦理片"]},
 {"key":"csp_xml_金鷹資源","name":"😈金鷹資源","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["内地剧","欧美剧","香港剧","韩剧","日剧","台湾剧","马泰剧","短剧","动作片","爱情片","喜剧片","科幻片","剧情片","动画片","恐怖片","战争片","记录片","伦理片","综艺","中国动漫","日本动漫","欧美动漫"]},
 {"key":"csp_xml_閃電資源","name":"😈閃電資源","type":1,"api":"https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","港剧","韩剧","日剧","台剧","泰剧","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","科幻片","爱情片","剧情片","犯罪片","悬疑片","奇幻片","动画片","动画电影","恐怖片","战争片","记录片","其他片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育赛事"]},
-{"key":"csp_xml_全站資源","name":"🔍全站資源","type":1,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产","日韩","欧美","港台","电影","动作","喜剧","爱情","科幻","恐怖","剧情","犯罪","冒险","动画","武侠","奇幻","悬疑","惊悚","综艺","动漫"]},
-
 
 
 //duplicate
 {"key":"csp_duplicate","name":"☛┃ Duplicate┃☚","type":3,"api":"csp_Duplicate","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_9mui-Ole(XPF)","name":"🛫┃歐樂影院┃🆚","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-olevod.json"},
 {"key":"xbpq_爱看影院","name":"🛫┃愛看影院┃🆚","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/yw88075/tvbox/raw/main/XBPQ/爱看影院.json","jar":"./jar/Yoursmile.jar"},
-{"key":"csp_appysv2_9mui-天天視訊","name":"🛫┃天天視訊┃🆚","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 //{"key":"drpy_js_網飛.TVgao","name":"🛫┃網飛TV┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/网飞.TV.js"},
-//{"key":"drpy_js_新視覺","name":"🛫┃新視覺┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/新视觉影视.js"},
+//{"key":"drpy_js_新視覺gao","name":"🛫┃新視覺┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/新视觉影视.js"},
 //{"key":"drpy_js_348電影網gao","name":"🛫┃348電影網┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/348电影网.js"},
 //{"key":"drpy_天天視訊劇gao","name":"🛫┃天天視訊2┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/天天视频[飞].js"},
 
@@ -99,19 +100,20 @@
 {"key":"drpy_動漫_58動漫","name":"🥇💢58動漫","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/58动漫.js"},
 
 
+
 //DEAD?
 {"key":"csp_DEAD","name":"😔┃ DEAD?┃😔","type":3,"api":"csp_Dead","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xml_😈飛速資源","name":"😔飛速資源","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","香港剧","韩国剧","日本剧","台湾剧","泰国剧","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","科幻片","爱情片","剧情片","犯罪片","悬疑片","奇幻片","动画片","恐怖片","战争片","记录片","其他片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育赛事"]},
-{"key":"csp_xml_😈天空資源","name":"😔天空資源","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","香港剧","韩国剧","日剧","台湾剧","泰剧","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","科幻片","爱情片","剧情片","犯罪片","悬疑片","奇幻片","动画片","动画电影","恐怖片","战争片","记录片","其他片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-{"key":"csp_xml_😈CK資源","name":"😔CK資源","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","日韩剧","港台剧","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","犯罪片","奇幻片","恐怖片","战争片","记录片","伦理片"]}, 
 {"key":"drpy_9mui-量子影視","name":"😔量子影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-量子影视.js"},
 {"key":"drpy_9mui-獨播庫","name":"😔獨播庫","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-獨播庫.js"},
 {"key":"csp_xpath_9mui-獨播庫(XPF)","name":"😔┃獨播庫┃🆚","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-duboku.json"},
 {"key":"drpy_od","name":"😔┃歐帝┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/欧帝影院.js"},
+{"key":"drpy_我愛跟劇","name":"😚我愛跟劇","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/我愛跟劇.js"},
+{"key":"csp_appysv2_9mui-天天視訊","name":"🛫┃天天視訊┃🆚","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"csp_Xinsj","name":"😔┃新視覺┃🆚","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/","jar":"./jar/Yoursmile.jar;md5;32BA800637272A7DFFF64A0FFA6695B3"},
 {"key":"csp_xpath_9mui-348z","name":"😔348電影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-348z.json"},
-{"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
-{"key":"drpy_我愛跟劇","name":"😚我愛跟劇","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/我愛跟劇.js"},
+{"key":"csp_xml_🔍全站資源","name":"😔全站資源","type":1,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产","日韩","欧美","港台","电影","动作","喜剧","爱情","科幻","恐怖","剧情","犯罪","冒险","动画","武侠","奇幻","悬疑","惊悚","综艺","动漫"]},
+
+
 
 //DUN LIKE IT!
 //{"key":"csp_Auete","name":"😚奧特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/","jar":"./jar/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624"},
