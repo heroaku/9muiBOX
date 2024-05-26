@@ -6,6 +6,7 @@ var rule = {
 	title: '胖虎',
 	模板: 'mxpro',
 	// host:'https://www.physkan.com',
+	// host: 'https://www.panghuys.site',
 	host: 'https://cdnkan.top',
 	hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".go:eq(1)&&a&&href");print("胖虎跳转地址 =====> " + src);HOST=src',
 	url: '/vodshow/fyclassfyfilter.html',
