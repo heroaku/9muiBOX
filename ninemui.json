@@ -32,7 +32,7 @@
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
 {"key":"泥巴","name":"😚泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"drpy_9mui-胖虎","name":"😚胖虎","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-胖虎.js"},
-{"key":"drpy_9mui-if101","name":"🍙if101😈海外看","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-if101.js"},
+{"key":"drpy_9mui-愛壹帆","name":"🍙愛壹帆😈海外","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-愛壹帆.js"},
 
 //😚第一個源不能播
 {"key":"drpy_9mui-網飛TV","name":"🍭網飛TV","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-網飛.TV.js"},
@@ -41,7 +41,6 @@
 //🍙海外看資源
 {"key":"drpy_9mui-楚門影院","name":"🍙楚門😈海外看","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-楚門影院.js"},
 {"key":"drpy_9mui-華樂影院","name":"🍙華樂😈海外看","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-華樂影院.js"},
-{"key":"drpy_9mui-愛壹帆","name":"🍙愛壹帆😈海外","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-愛壹帆.js"},
 {"key":"drpy_9mui-小寶影院","name":"🍙小寶😈海外看","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-小寶影院.js"},
 
 
@@ -118,6 +117,7 @@
 {"key":"csp_appysv2_9mui-天天視訊","name":"🛫┃天天視訊┃🆚","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"csp_Xinsj","name":"😔┃新視覺┃🆚","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/","jar":"./jar/Yoursmile.jar;md5;32BA800637272A7DFFF64A0FFA6695B3"},
 {"key":"csp_xpath_9mui-348z","name":"😔348電影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-348z.json"},
+{"key":"drpy_9mui-🍙if101😈","name":"😔if101😈海外看","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-if101.js"},
 {"key":"csp_xml_🔍全站資源","name":"😔全站資源","type":1,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产","日韩","欧美","港台","电影","动作","喜剧","爱情","科幻","恐怖","剧情","犯罪","冒险","动画","武侠","奇幻","悬疑","惊悚","综艺","动漫"]},
 
 
