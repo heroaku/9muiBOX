@@ -22,8 +22,11 @@ var rule = {
 		4:{cateId:'4'}
 	},
 	class_parse: '.navbar-items&&li:gt(1):lt(7);a&&title;a&&href;.*/(.*?).html',
-	tab_order:['1','2','','3'],
-	tab_rename:{'':'0'},
+	//tab_order:['1','2','','3'],
+	//tab_rename:{'':'0'},
+	tab_order:['线路3','线路2','线路1','线路4'],
+	tab_rename:{'线路3':'快看資源 ','线路2':'索尼資源','线路1':'量子資源','线路4':'非凡資源'},
+
 	lazy:`js:
 		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
 		var url = html.url;
