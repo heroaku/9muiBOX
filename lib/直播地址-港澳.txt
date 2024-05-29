@@ -1075,3 +1075,24 @@ MUFC貝影,http://43.138.170.29:35455/yy/1355659580
 大家都在看的警匪片,http://43.138.170.29:35455/yy/1354930964
 一起峽谷相遇嗎,http://43.138.170.29:35455/yy/1354342554
 武工隊傳奇,http://43.138.170.29:35455/yy/22089862
+
+
+睇唔到.唔睇,#genre#
+TVB DRAMA,https://z88.ubtvfans.com/live/rx3/1243/5e98788089087fb462ba17e122fd194f/index.m3u8
+TVB1,https://z88.ubtvfans.com/live/rx3/1242/fb44abcbd725826c898827a13d54aae5/index.m3u8
+TVBE,https://z88.ubtvfans.com/live/rx3/1245/f5b6ce19b6aaa9c28323d9f2839a8985/index.m3u8
+TVBJ1,https://z88.ubtvfans.com/live/rx3/1244/7833a84444269dd5dd0a7531ccef9d9c/index.m3u8
+TVB直播,https://z88.ubtvfans.com/live/rx1/2743/4f144d9eee874c8d70c168c4b0c4b8d5/index.m3u8
+HKIBC,https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
+亞美衛視,https://z88.ubtvfans.com/live/rx3/8/8ed229cc95262c1c1b7c2fe89267f910/index.m3u8
+鳳凰衛視,https://z88.ubtvfans.com/live/rx3/2291/2b011e9f29a96046f6b0804c7ba039ef/index.m3u8
+鳳凰衛視,https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+鳳凰資訊,https://z88.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
+鳳凰資訊,https://z88.ubtvfans.com/live/rx3/2292/45ceb0f863d4b877269f3c784ff16f30/index.m3u8
+星空衛視,https://z88.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
+澳門蓮花,https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
+創世電視,https://z88.ubtvfans.com/live/rx6/1317/a6cc4d38042da834e3c7eee3ad2aef10/index.m3u8
+澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳亞衛視,https://z88.ubtvfans.com/live/rx3/85/c871830ea5628e11c1a0af56f2424165/index.m3u8
+18台,https://z88.ubtvfans.com/live/rx1/2813/bf9968c0d6c16dded7c49cf9f1419429/index.m3u8
+18台,https://z88.ubtvfans.com/live/rx1/44/85341c5f70a65a7ffbe09dae086f1201/index.m3u8
