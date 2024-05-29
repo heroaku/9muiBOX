@@ -154,12 +154,7 @@ Business Network News,https://z88.ubtvfans.com/live/rx4/1250/e2ce3217a9632ab63c1
 
 YouTube JP News,#genre#
 东京新宿,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=DjdUEyjx8GM
-HTB北海道,http://127.0.0.1:9978/proxy?do=yt&urlhttps://www.youtube.com/watch?v=d8CrKBU99Hg
-HTB北海道ニュース,https://m.youtube.com/@htbnews/streams/1
-廣島,https://www.youtube.com/@home-news/streams/1
-廣島,https://m.youtube.com/@home-news/streams/1
-ANNnews,https://www.youtube.com/@ANNnewsCH/streams/1
-ANNnews,https://m.youtube.com/@ANNnewsCH/streams/1
+HTB北海道,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=d8CrKBU99Hg
 
 
 鬥魚,#genre#
