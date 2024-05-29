@@ -34,6 +34,10 @@ TVB經典,https://z88.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8f
 星空衛視,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 鳳凰香港,https://z88.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
 鳳凰電影,https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
+鳳凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
+鳳凰香港,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+鳳凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
+鳳凰香港,http://103.95.24.37:880/fhxgt.m3u8
 HOY資訊台,https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
 HOY資訊台,https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
 TVB明珠,https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
