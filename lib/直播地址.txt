@@ -2,8 +2,8 @@
 翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-TVB J2,https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
-TVB J2,https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
+TVB Plus,https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
+TVB Plus,https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
 TVB Plus,https://z88.ubtvfans.com/live/rx1/394/ea3bdc0ef72944ed9e0438db99e557f2/index.m3u8
 TVB Plus,https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
@@ -155,6 +155,7 @@ Business Network News,https://z88.ubtvfans.com/live/rx4/1250/e2ce3217a9632ab63c1
 YouTube JP News,#genre#
 东京新宿,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=DjdUEyjx8GM
 HTB北海道,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=d8CrKBU99Hg
+
 
 
 鬥魚,#genre#

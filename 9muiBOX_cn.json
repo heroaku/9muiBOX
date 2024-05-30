@@ -11,7 +11,9 @@
 
 
 # 直播 1-ijk 2 exo 3-ali 4-sys
-"lives":[{"name":"tv-A","type":0,"url":"./lib/直播地址-港澳.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"Stream-Link","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+		 {"name":"直播地址","type":0,"url":"./lib/直播地址.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+
 
 # Player Types:1 = ijk, 2 = exo, 3 = 阿里, 4 = system
  "sites":[
