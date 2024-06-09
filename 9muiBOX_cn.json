@@ -31,7 +31,6 @@
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
 {"key":"泥巴","name":"😚泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"csp_Ikanbot","name": "😚Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
-{"key":"csp_Bdys","name":"😚嗶嘀影視","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_9mui-愛壹帆","name":"🍙愛壹帆😈海外","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-愛壹帆.js"},
 
 //😚第一個源不能播
