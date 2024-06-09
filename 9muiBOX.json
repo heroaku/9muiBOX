@@ -1,6 +1,6 @@
 {
 ## spider
-"spider":"https://github.com/ninemui/gaoBOX/raw/master/jar/pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
+"spider":"https://github.com/ninemui/gaoBOX/raw/master/jar/pg.jar;md5;d253420b95d2b9e3ab8904a92218d6f6",
 
 ##主頁壁紙
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -17,20 +17,19 @@
  "sites":[
 {"key":"csp_Ninemui","name":"👒ninemui","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_9mui-蛋蛋贊","name":"😚蛋蛋贊","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-蛋蛋贊.js"},
-{"key":"drpy_9mui-茶杯狐","name":"😚茶杯狐","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-茶杯狐.js"},
 {"key":"drpy_9mui-達達龜","name":"😚達達龜","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-達達龜.js"},
-{"key":"彈幕_酷看","name":"😚酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.com/ninemui/PizazzGYBOX/raw/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"},
-{"key":"彈幕_一起看","name":"😚一起看","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.com/ninemui/PizazzGYBOX/raw/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"},
-{"key":"drpy_9mui-樂魚影視","name":"😚樂魚影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-樂魚影視.js"},
-{"key":"drpy_9mui-KOK影院","name":"😚KOK影院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-KOK影院.js"},
-{"key":"drpy_9mui-多瑙影視","name":"😚多瑙影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-多瑙影視.js"},
 {"key":"drpy_9mui-新視覺","name":"😚新視覺","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-新視覺影視.js"},
-{"key":"星星","name":"😚星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
-{"key":"drpy_9mui-4k劇院","name":"😚4k劇院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-4k劇院.js"},
-{"key":"drpy_9mui-歐帝影院","name":"😚歐帝","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-歐帝影院.js"},
+{"key":"drpy_9mui-樂魚影視","name":"😚樂魚影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-樂魚影視.js"},
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
+{"key":"drpy_9mui-多瑙影視","name":"😚多瑙影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-多瑙影視.js"},
+{"key":"彈幕_一起看","name":"😚一起看","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.com/ninemui/PizazzGYBOX/raw/main/danmu.jar;md5;7c068ecb361701115b06427aead99448"},
 {"key":"泥巴","name":"😚泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"csp_Ikanbot","name": "😚Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
+{"key":"星星","name":"😚星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
+{"key":"drpy_9mui-歐帝影院","name":"😚歐帝","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-歐帝影院.js"},
+{"key":"drpy_9mui-4k劇院","name":"😚4k劇院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-4k劇院.js"},
+{"key":"彈幕_酷看","name":"😚酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.com/ninemui/PizazzGYBOX/raw/main/danmu.jar;md5;7c068ecb361701115b06427aead99448"},
+{"key":"drpy_9mui-茶杯狐","name":"😚茶杯狐","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-茶杯狐.js"},
 {"key":"drpy_9mui-愛壹帆","name":"🍙愛壹帆😈海外","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-愛壹帆.js"},
 
 //😚第一個源不能播
@@ -42,7 +41,6 @@
 //{"key":"drpy_9mui-華樂影院","name":"🍙華樂😈海外看","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-華樂影院.js"},
 //{"key":"drpy_9mui-愛壹帆","name":"🍙愛壹帆😈海外","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-愛壹帆.js"},
 //{"key":"drpy_9mui-小寶影院","name":"🍙小寶😈海外看","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-小寶影院.js"},
-
 
 
 //資源網
