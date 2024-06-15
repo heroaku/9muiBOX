@@ -25,7 +25,6 @@
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
 {"key":"drpy_9mui-多瑙影視","name":"😚多瑙影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-多瑙影視.js"},
 {"key":"彈幕_一起看","name":"😚一起看","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.com/ninemui/PizazzGYBOX/raw/main/danmu.jar;md5;7c068ecb361701115b06427aead99448"},
-
 {"key":"csp_Ikanbot","name": "😚Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
 {"key":"星星","name":"😚星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
 {"key":"drpy_9mui-歐帝影院","name":"😚歐帝","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-歐帝影院.js"},
@@ -84,9 +83,8 @@
 
 //duplicate
 {"key":"csp_duplicate","name":"☛┃ Duplicate┃☚","type":3,"api":"csp_Duplicate","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XBPQ_OLE","name":"🛫┃歐樂影院┃🆚","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/00/raw/main/ext/OLE.json","jar":"https://github.com/c120487/00/raw/main/jar/pc0205.jar"},
-{"key":"XBPQe_OLE","name":"🛫┃歐樂影院e┃🆚","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevodtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","jar":"https://github.com/c120487/00/raw/main/jar/pc0205.jar"},
 {"key":"xbpq_爱看影院","name":"🛫┃愛看影院┃🆚","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/yw88075/tvbox/raw/main/XBPQ/爱看影院.json","jar":"./jar/Yoursmile.jar"},
+{"key":"XBPQe_OLE","name":"🛫┃歐樂影院e┃🆚","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","jar":"./jar/pc0205.jar"},
 //{"key":"drpy_js_網飛.TVgao","name":"🛫┃網飛TV┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/网飞.TV.js"},
 //{"key":"drpy_js_新視覺gao","name":"🛫┃新視覺┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/新视觉影视.js"},
 //{"key":"drpy_js_348電影網gao","name":"🛫┃348電影網┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/348电影网.js"},
