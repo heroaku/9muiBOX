@@ -17,6 +17,7 @@ TVB Plus,https://fm1077.serv00.net/anbo/index.php?id=392
 TVB Plus,https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
 TVB Plus,https://z1.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
 TVB Plus,https://z2.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
+TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=381762384576840
 ViuTV,https://fm1077.serv00.net/anbo/index.php?id=2334
 ViuTV,https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
@@ -120,6 +121,7 @@ TVB明珠,https://fm1077.serv00.net/anbo/index.php?id=391
 TVB明珠,https://z88.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
 TVB明珠,https://z1.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
 TVB明珠,https://z2.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
+無綫新聞台,https://bcovlive-a.akamaihd.net/0caba7e47c374553a9a22f666e5e1bdf/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 無綫新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=381762384576840
 無綫新聞台,https://fm1077.serv00.net/anbo/index.php?id=394
 無綫新聞台,https://z88.ubtvfans.com/live/rx1/394/ea3bdc0ef72944ed9e0438db99e557f2/index.m3u8
