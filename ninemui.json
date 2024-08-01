@@ -28,8 +28,10 @@
 {"key":"csp_Ikanbot","name": "😚Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
 {"key":"星星","name":"😚星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
 {"key":"drpy_9mui-歐帝影院","name":"😚歐帝","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-歐帝影院.js"},
-{"key":"csp_xml_影圖資源網","name":"😚影圖資源網","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["连续剧","国产剧","日韩剧","欧美剧","港台剧","电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","综艺","动漫"]},
+{"key":"drpy_9mui-天天視訊","name":"😚天天視訊","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-天天視訊.js"},
 {"key":"drpy_9mui-4k劇院","name":"😚4k劇院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-4k劇院.js"},
+{"key":"csp_xml_影圖資源網","name":"😚影圖資源網","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["连续剧","国产剧","日韩剧","欧美剧","港台剧","电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","综艺","动漫"]},
+
 
 
 //資源網
@@ -68,9 +70,7 @@
 {"key":"csp_duplicate","name":"☛┃ Duplicate┃☚","type":3,"api":"csp_Duplicate","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"XBPQe_OLE","name":"🛫┃歐樂影院e┃🆚","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","jar":"https://github.com/c120487/00/raw/main/jar/pc0205.jar"},
 {"key":"drpy_網飛.TVgao","name":"🛫┃網飛TV┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/网飞.TV.js"},
-{"key":"drpy_視覺gao","name":"🛫┃新視覺┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/新视觉影视.js"},
 {"key":"drpy_348電影網gao","name":"🛫┃348電影網┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/348电影网.js"},
-{"key":"drpy_天天視訊劇gao","name":"🛫┃天天視訊2┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/天天视频[飞].js"},
 
 
 //動漫
@@ -91,6 +91,7 @@
 {"key":"DEAD_🍄泥巴💢","name":"😔泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1},
 {"key":"DEAD_9mui-新視覺","name":"😔新視覺","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-新視覺影視.js"},
 {"key":"DEAD_Xinsj","name":"😔┃新視覺┃🆚","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/","jar":"./jar/Yoursmile.jar;md5;32BA800637272A7DFFF64A0FFA6695B3"},
+{"key":"drpy_新視覺gao","name":"🛫┃新視覺┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://github.com/ninemui/gaoBOX/raw/master/js/新视觉影视.js"},
 {"key":"DEAD_爱看影院","name":"😔┃愛看影院┃🆚","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/yw88075/tvbox/raw/main/XBPQ/爱看影院.json","jar":"./jar/Yoursmile.jar"},
 {"key":"DEAD_9mui-樂魚影視","name":"😔樂魚影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-樂魚影視.js"},
 {"key":"DEAD_9mui-達達龜","name":"😔達達龜","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-達達龜.js"},
@@ -100,7 +101,7 @@
 {"key":"DEAD_9mui-獨播庫","name":"😔獨播庫","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-獨播庫.js"},
 {"key":"DEAD_9mui-獨播庫(XPF)","name":"😔┃獨播庫┃🆚","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-duboku.json"},
 {"key":"DEAD_歐帝","name":"😔┃歐帝┃🆚","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/欧帝影院.js"},
-{"key":"DEAD_9mui-天天視訊","name":"😔┃天天視訊┃🆚","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+{"key":"DEAD_天天視訊","name":"😔┃天天視訊┃🆚","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"DEAD_9mui-胖虎","name":"😔胖虎","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-胖虎.js"},
 {"key":"DEAD_9mui-KOK影院","name":"😔KOK影院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-KOK影院.js"},
 {"key":"DEAD_Bdys","name":"😔嗶嘀影視","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},

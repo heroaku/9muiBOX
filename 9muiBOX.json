@@ -27,6 +27,7 @@
 {"key":"csp_Ikanbot","name": "😚Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
 {"key":"星星","name":"😚星星","type":3,"api":"csp_Star","searchable":1,"changeable":1},
 {"key":"drpy_9mui-歐帝影院","name":"😚歐帝","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-歐帝影院.js"},
+{"key":"drpy_9mui-天天視訊","name":"😚天天視訊","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-天天視訊.js"},
 {"key":"drpy_9mui-4k劇院","name":"😚4k劇院","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-4k劇院.js"},
 {"key":"csp_xml_影圖資源網","name":"😚影圖資源網","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["连续剧","国产剧","日韩剧","欧美剧","港台剧","电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","综艺","动漫"]},
 
