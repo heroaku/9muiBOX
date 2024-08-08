@@ -16,6 +16,7 @@
 # Player Types:1 = ijk, 2 = exo, 3 = 阿里, 4 = system
  "sites":[
 {"key":"csp_Ninemui","name":"👒ninemui","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_XBiuNIVODvip","name":"🥇泥視頻VIP💢","type":3,"api":"csp_XBPQ","jar":"https://cdn05042023.gitlink.org.cn/ninemui/HeiHeiBOX/raw/branch/main/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"video-info-item video-info-content vod_content\">&&</span>","分类url":"https://www.nivod.vip/k/{cateId}--time------{cateIPg}---{year}/","分类": "電視劇$2#國產劇$13#韓劇$33#歐美劇$16#港台劇$14#日劇$15#泰劇$34#新馬劇$35#其他劇$25#電影$1#動漫$4#動畫片$26#綜藝$3#紀錄片$21#直播$49"}},
 {"key":"csp_9mui-歐樂(XBPQ)","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json","jar":"./jar/pc0205.jar"},
 {"key":"drpy_9mui-網飛TV","name":"🍭網飛TV","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-網飛.TV.js"},
 {"key":"drpy_9mui-蛋蛋贊","name":"😚蛋蛋贊","type":3,"api":"https://cdn05042023.gitlink.org.cn/ninemui/gaoBOX/raw/branch/master/lib/drpy2.min.js","ext":"./js/9mui-蛋蛋贊.js"},
