@@ -1,6 +1,6 @@
 {
 ## spider
-"spider":"https://github.com/ninemui/gaoBOX/raw/master/jar/pg.jar;md5;93278b5f3154802b9112c7a05981ba86",
+"spider":"https://github.com/ninemui/gaoBOX/raw/master/jar/pg.jar;md5;c9986646066cf0863a5045a0e31bb8ac",
 
 ##主頁壁紙
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -22,7 +22,7 @@
 {"key":"drpy_9mui-網飛TV","name":"🍭網飛TV","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-網飛.TV.js"},
 {"key":"drpy_9mui-蛋蛋贊","name":"😚蛋蛋贊","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-蛋蛋贊.js"},
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
-{"key":"drpy_9mui-多瑙影視","name":"😚多瑙影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-多瑙影視.js"},
+{"key":"XBPQ_9mui-多瑙影視","name":"😚多瑙影視","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-多瑙影視.json","jar":"./jar/pc0205.jar"},
 {"key":"drpy_9mui-小寶影院","name":"😚小寶","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-小寶影院.js"},
 {"key":"drpy_9mui-金曼影視","name":"😚金曼影視","type":3,"api":"https://github.com/ninemui/gaoBOX/raw/master/lib/drpy2.min.js","ext":"./js/9mui-金曼影視.js"},
 {"key":"彈幕_一起看","name":"😚一起看","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.com/ninemui/PizazzGYBOX/raw/main/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"},
