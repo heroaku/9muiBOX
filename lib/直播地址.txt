@@ -1,4 +1,6 @@
 香港,#genre#
+翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+翡翠台,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=381762384576840
 翡翠台,https://fm1077.serv00.net/anbo/index.php?id=390
 翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
@@ -8,6 +10,8 @@
 翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 翡翠台,https://z1.ubtvfans.com/live/rx1/30/fb664922e2e0f516cde26b1d27a01331/index.m3u8
 翡翠台,https://z2.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
+TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB Plus,https://live.hkdvb.com/hls/live/82.m3u8?token=381762384576840
 TVB Plus,https://fm1077.serv00.net/anbo/index.php?id=2834
 TVB Plus,https://z88.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
@@ -18,6 +22,7 @@ TVB Plus,https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/
 TVB Plus,https://z1.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
 TVB Plus,https://z2.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
 TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
 ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=381762384576840
 ViuTV,https://fm1077.serv00.net/anbo/index.php?id=2334
 ViuTV,https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
@@ -27,11 +32,13 @@ ViuTV,https://fm1077.serv00.net/anbo/index.php?id=72
 ViuTV,https://z88.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
 ViuTV,https://z1.ubtvfans.com/live/rx1/72/67ad6810b074a91c73426c59e36738d6/index.m3u8
 ViuTV,https://z2.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
+ViuTV 6,P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580
 ViuTV 6,https://live.hkdvb.com/hls/live/96.m3u8?token=381762384576840
 ViuTV 6,https://fm1077.serv00.net/anbo/index.php?id=176
 ViuTV 6,https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
 ViuTV 6,https://z1.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
 ViuTV 6,https://z2.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
+HOY,P2p://generationnexxxt.com:19806/532d47eca340456a814ba21cc5e68a52
 HOY,https://live.hkdvb.com/hls/live/77.m3u8?token=381762384576840
 HOY,https://fm1077.serv00.net/anbo/index.php?id=401
 HOY,https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
@@ -41,19 +48,23 @@ HOY,https://z2.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.
 新時代2,https://z88.ubtvfans.com/live/rx3/1288/99d190e454892806c4594d0ed8af9afc/index.m3u8
 新時代2,https://z1.ubtvfans.com/live/rx3/1288/99d190e454892806c4594d0ed8af9afc/index.m3u8
 新時代2,https://z2.ubtvfans.com/live/rx3/1288/99d190e454892806c4594d0ed8af9afc/index.m3u8
+新時代東部,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1287
 新時代東部,https://fm1077.serv00.net/anbo/index.php?id=1286
 新時代東部,https://z88.ubtvfans.com/live/rx3/1286/a8d6b7c5839888962b60049913b5a891/index.m3u8
 新時代東部,https://z1.ubtvfans.com/live/rx3/1286/a8d6b7c5839888962b60049913b5a891/index.m3u8
 新時代東部,https://z2.ubtvfans.com/live/rx3/1286/a8d6b7c5839888962b60049913b5a891/index.m3u8
+城市電視,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1289
 城市電視,https://fm1077.serv00.net/anbo/index.php?id=1289
 城市電視,https://z88.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3u8
 城市電視,https://z1.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3u8
 城市電視,https://z2.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3u8
+PopC,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043
 NOWTV,https://fm1077.serv00.net/anbo/index.php?id=1246
 NOWTV,https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
 NOWTV,https://z1.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
 NOWTV,https://z2.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+美亞電影台,P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
 天映頻道,https://fm1077.serv00.net/anbo/index.php?id=441
 天映頻道,https://z88.ubtvfans.com/live/rx3/441/4b02ebfe67b0d934aaae5b94f25d1b95/index.m3u8
 天映頻道,https://z1.ubtvfans.com/live/rx3/441/4b02ebfe67b0d934aaae5b94f25d1b95/index.m3u8
@@ -110,8 +121,12 @@ HOY資訊台,https://fm1077.serv00.net/anbo/index.php?id=395
 HOY資訊台,https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
 HOY資訊台,https://z1.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
 HOY資訊台,https://z2.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
+港台電視31,P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f
 港台電視31,https://live.hkdvb.com/hls/live/31.m3u8?token=381762384576840
+港台電視32,P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f
 港台電視32,https://live.hkdvb.com/hls/live/32.m3u8?token=381762384576840
+TVB明珠,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
+TVB明珠,P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
 TVB明珠,https://live.hkdvb.com/hls/live/84.m3u8?token=381762384576840
 TVB明珠,https://fm1077.serv00.net/anbo/index.php?id=2437
 TVB明珠,https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
