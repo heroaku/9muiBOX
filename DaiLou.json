@@ -12,6 +12,9 @@
 "name": "PizazzGY"},
 
 {"url": "https://github.com/ninemui/qistBOX/raw/master/jsm.json",
-"name": "qist - JSM"}
-]}
+"name": "qist - JSM"},
 
+{"url": "https://github.com/ninemui/newrechaBOX/raw/refs/heads/main/0915.json",
+"name": "newrecha - 0915"}
+
+]}
