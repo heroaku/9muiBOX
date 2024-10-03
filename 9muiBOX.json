@@ -12,10 +12,11 @@
 "lives":[
 {"name":"Stream-Link","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"安博","url":"https://tang.hz.cz/zb/anbo?token=647c28ca","ua":"okhttp/4.12.0"},
-{"name":"直播地址","type":0,"url":"./lib/直播地址.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"安博｜(P3P)","type":0,"url":"https://anbox118.serv00.net/ubtv.php","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"UPLive安博(z88)","type":0,"url":"https://files.catbox.moe/g4zbng.json","ua":"okhttp/4.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"安博｜(z88)","type":0,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/anber-z88.json","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"安博｜(cookie代理)","url":"https://github.com/ninemui/newrechaBOX/raw/refs/heads/main/live/cookie-ublive.txt","ua":"okhttp/4.12.0"},
+{"name":"安博｜(aoi代理)","url":"https://github.com/ninemui/newrechaBOX/raw/refs/heads/main/live/api-anber.txt","ua":"okhttp/4.12.0"},
+{"name":"安博｜(z88)","type":0,"url":"https://github.com/ninemui/newrechaBOX/raw/refs/heads/main/live/anber-z88.txt","ua":"okhttp/4.12.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"UPLive安博(z88)","type":0,"url":"https://files.catbox.moe/g4zbng.json","ua":"okhttp/4.1.2.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 
