@@ -24,7 +24,7 @@ var rule={
 		20:{cateId:'20',by:'/by/time'}
 	},
 	searchUrl:'/index.php/vod/search.html?wd=**',
-	tab_rename:{'线路1':'黑木耳資源','线路2':'臥龍資源','线路3':'華為吧資源'},
+    tab_rename:{'小寶影院':'黑木耳資源','備用線路':'華為吧資源'},
 	class_parse:'.myui-header__menu&&li.hidden-xs:gt(0):lt(7);a&&Text;a&&href;./(\\d+).html',
     lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
