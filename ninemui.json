@@ -44,9 +44,6 @@
 {"key":"csp_xml_影圖資源網","name":"😚影圖資源網","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["连续剧","国产剧","日韩剧","欧美剧","港台剧","电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","综艺","动漫"]},
 {"key":"drpy_9mui-愛你短劇","name":"😚愛你短劇","type":3,"api":"https://github.com/ninemui/newrechaBOX/raw/main/drpy_libs/drpy2.min.js","ext":"./js/9mui-愛你短劇.js"},
 
-//🌈黑木耳資源
-{"key":"drpy_9mui-美視網","name":"🌈美視網😈黑木耳","type":3,"api":"https://github.com/ninemui/newrechaBOX/raw/main/drpy_libs/drpy2.min.js","ext":"./js/9mui-美視網.js"},
-
 //🍙華為吧資源
 {"key":"drpy_9mui-楚門影院","name":"🍙楚門😈華為吧","type":3,"api":"https://github.com/ninemui/newrechaBOX/raw/main/drpy_libs/drpy2.min.js","ext":"./js/9mui-楚門影院.js"},
 
@@ -90,6 +87,7 @@
 
 
 //duplicate
+//{"key":"drpy_9mui-美視網","name":"🌈美視網😈黑木耳","type":3,"api":"https://github.com/ninemui/newrechaBOX/raw/main/drpy_libs/drpy2.min.js","ext":"./js/9mui-美視網.js"},
 //{"key":"api_黑木耳資源","name":"😈黑木耳資源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"playUrl":"json:https://qist.cc/api/hmr.php?noads=","filterable":1,"playerType":2,"ext":"./lib/9mui-api黑木耳.json","jar":"https://github.com/ninemui/qistBOX/raw/master/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
 //{"key":"csp_xml_黑木耳資源","name":"😈黑木耳資源","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["国产剧","欧美剧","韩剧","港剧","日剧","台剧","泰剧","新马剧","其他剧","剧情","动作","冒险","喜剧","奇幻","惊悚","灾难","爱情","犯罪","科幻","动画电影","网络电影","歌舞","同性","恐怖","悬疑","战争","经典","古装","虐恋","逆袭","悬疑","神豪","重生","复仇","穿越","甜宠","强者","萌宝","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","欧美","日本","韩国","国产","港台","新马泰","其它"]},
 //{"key":"csp_duplicate","name":"☛┃ Duplicate┃☚","type":3,"api":"csp_Duplicate","searchable":1,"quickSearch":1,"filterable":1},

@@ -44,9 +44,6 @@
 {"key":"csp_xml_影圖資源網","name":"😚影圖資源網","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["连续剧","国产剧","日韩剧","欧美剧","港台剧","电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","综艺","动漫"]},
 {"key":"drpy_9mui-愛你短劇","name":"😚愛你短劇","type":3,"api":"https://cdn09022024.gitlink.org.cn/ninemui/newrechaBOX/raw/branch/main/drpy_libs/drpy2.min.js","ext":"./js/9mui-愛你短劇.js"},
 
-//🌈黑木耳資源
-{"key":"drpy_9mui-美視網","name":"🌈美視網😈黑木耳","type":3,"api":"https://cdn09022024.gitlink.org.cn/ninemui/newrechaBOX/raw/branch/main/drpy_libs/drpy2.min.js","ext":"./js/9mui-美視網.js"},
-
 //🍙華為吧資源
 {"key":"drpy_9mui-楚門影院","name":"🍙楚門😈華為吧","type":3,"api":"https://cdn09022024.gitlink.org.cn/ninemui/newrechaBOX/raw/branch/main/drpy_libs/drpy2.min.js","ext":"./js/9mui-楚門影院.js"},
 
