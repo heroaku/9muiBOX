@@ -24,6 +24,7 @@ var rule = {
     headers: {
         'User-Agent': 'MOBILE_UA',
     },
+	
     class_parse: 'div.nav&&li:gt(0):lt(5);a&&Text;a&&href;(\\d+).html',
     play_parse: true,
     lazy: `js:

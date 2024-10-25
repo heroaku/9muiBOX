@@ -25,6 +25,10 @@ var rule={
         dyjs:{cateId:'dyjs',by:'/by/time'}
     },
     searchUrl: '/vodsearch/page/fypage/wd/**.html',
+	
+	tab_order:['TK线路','SN线路','WL线路','WJ线路','HN线路','SO线路','BF线路','SD线路','FM线路','LZ线路','GQ线路','iK线路','UK线路'],
+	tab_rename:{'TK线路':'天空資源','SN线路':'索尼資源','WL线路':'臥龍資源','WJ线路':'無盡資源','HN线路':'紅牛資源','SO线路':'速播資源','BF线路':'暴風資源','SD线路':'閃電資源','FM线路':'非凡資源','LZ线路':'量子資源','GQ线路':'優質資源','iK线路':'iKun資源','UK线路':'u酷資源'},
+	
     class_parse: '.navbar-items li:gt(1):lt(8);a&&title;a&&href;.*/(.*?).html',
     lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
