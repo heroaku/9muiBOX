@@ -40,6 +40,7 @@
 {"key":"drpy_9mui-小寶影院","name":"😚小寶","type":3,"api":"https://gitea.com/ninemui/PizazzGYBOX/raw/branch/main/JS/drpy2.min.js","ext":"./js/9mui-小寶影院.js"},
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://gitea.com/ninemui/PizazzGYBOX/raw/branch/main/JS/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
 {"key":"drpy_FreeOKLOL","name":"😚FreeOKLOL","type":3,"api":"https://gitea.com/ninemui/PizazzGYBOX/raw/branch/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/FreeOKLOL.js"},
+{"key":"drpy_9mui-愛你短劇","name":"😚愛你短劇","type":3,"api":"https://gitea.com/ninemui/PizazzGYBOX/raw/branch/main/JS/drpy2.min.js","ext":"./js/9mui-愛你短劇.js"},
 {"key":"csp_xml_影圖資源網","name":"😚影圖資源網","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["连续剧","国产剧","日韩剧","欧美剧","港台剧","电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","综艺","动漫"]},
 
 //🍙華為吧資源

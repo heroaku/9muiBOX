@@ -40,6 +40,7 @@
 {"key":"drpy_9mui-小寶影院","name":"😚小寶","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-小寶影院.js"},
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
 {"key":"drpy_FreeOKLOL","name":"😚FreeOKLOL","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/FreeOKLOL.js"},
+{"key":"drpy_9mui-愛你短劇","name":"😚愛你短劇","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-愛你短劇.js"},
 {"key":"csp_xml_影圖資源網","name":"😚影圖資源網","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["连续剧","国产剧","日韩剧","欧美剧","港台剧","电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","综艺","动漫"]},
 
 
@@ -105,7 +106,6 @@
 {"key":"dokilwss_泥巴影院","name":"😔泥巴影院","type":3,"api":"csp_XBPQ","jar":"./jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片地区":"圥忈制作","影片状态":"状态：&&</p>","影片类型":"类别：&&</a>","简介":"请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-content__desc col-pd clearfix&&</div>","分类":"电影$1#电视剧$2#动漫$30#综艺$29#动画电影$24","分类url":"https://nbys.app/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html"}},
 {"key":"drpy_9mui-天天視訊","name":"😔天天視訊","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-天天視訊.js"},
 {"key":"drpy_9mui-歐帝影院","name":"😔歐帝","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-歐帝影院.js"},
-{"key":"drpy_9mui-愛你短劇","name":"😔愛你短劇","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-愛你短劇.js"},
 
 
 //DUN LIKE IT!
