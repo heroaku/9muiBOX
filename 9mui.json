@@ -1,7 +1,6 @@
 {"urls":[
 {"url":"https://github.com/ninemui/9muiBOX/raw/main/9muiBOX.json","name":"9muiBOX@GitHub"},
-{"url":"https://gitea.com/ninemuihk/9muiBOX/raw/branch/main/9muiBOX_Gitea.json","name":"9muiBOX_cn@Gitea"},
-{"url":"https://cdn09022024.gitlink.org.cn/ninemui/9muiBOX/raw/branch/main/9muiBOX_cn.json","name":"9muiBOX_cn@GitLink"}
+{"url":"https://gitea.com/ninemuihk/9muiBOX/raw/branch/main/9muiBOX_cn.json","name":"9muiBOX_cn@Gitea"}
 ]}
 
 
