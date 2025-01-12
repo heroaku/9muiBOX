@@ -3,7 +3,7 @@ muban.mxpro.二级.tabs = '#y-playList&&.tab-item'
 var rule={     
     title:'网飞.TV',
     模板:'mxpro',
-    host:'https://www.wangfei.io',
+    host:'https://www.wangfei1.cc',
     // url:'/vodshow/id/fyclass/page/fypage.html',
     url:'/vodshow/id/fyfilter.html',
     filterable:1,//是否启用分类筛选,
