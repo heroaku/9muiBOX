@@ -18,15 +18,15 @@
 //{"name":"Stream-Link","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 {"name":"直播地址","url":"./lib/直播地址.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true}
 ],
-
+'09759777
 		 
 # Player Types: 1 = IJK, 2 = EXO, 0 = system
-# T4 Tokens: 51c2b961, de3676b2
+# T4 Tokens: de3676b2
 
  "sites":[
 {"key":"csp_Ninemui","name":"👒ninemui","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"./jar/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
-{"key":"ub18_51c2b961","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"ub18_de3676b2","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"pc0205_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/pc0205.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
 {"key":"drpy_9mui-iKanBot","name":"😎iKanBot🤖","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-iKanBot.js"},
 {"key":"drpy_9mui-網飛TV","name":"🍭網飛TV🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-網飛.TV.js"},
