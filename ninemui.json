@@ -18,8 +18,8 @@
 //{"name":"Stream-Link","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 {"name":"直播地址","url":"./lib/直播地址.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true}
 ],
-'09759777
-		 
+
+
 # Player Types: 1 = IJK, 2 = EXO, 0 = system
 # T4 Tokens: de3676b2
 
