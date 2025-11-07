@@ -26,7 +26,7 @@
  "sites":[
    {"key": "drpy_js_test","name": " 🎑js测试[DRPY]","type": 3, "jar": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/JS/%E6%A8%A1%E7%89%88/jstest.js"},	
    {"key":"csp_xBPQ_test测试","name":" 🍂测试 xBPQ","type":3,"api":"csp_HBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XBPQ/test/xbpqtest.json"},
-   {"key": "drpy_js_p_test","name": " 🌺pl测试[JS]","type": 3, "api": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/JS/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/JS/%E6%A8%A1%E7%89%88/jstest.js"},
+   {"key": "drpy_js_p_test","name": " 🌺pl测试[JS]","type": 3,  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/JS/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/JS/%E6%A8%A1%E7%89%88/jstest.js"},
    {"key": " py_test","name": " 🐦py测试","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_test.py"},	  
            {
             "key": "PYtest",
